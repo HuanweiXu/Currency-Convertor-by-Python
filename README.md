@@ -1,8 +1,8 @@
 # <Currency Converter>
 
 ## Author
-Name: <Huanwei Xu>
-Student ID: <14090118>
+Name: `Huanwei Xu`
+
 
 ## Description
 <What your application does>
